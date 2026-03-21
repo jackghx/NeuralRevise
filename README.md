@@ -122,11 +122,11 @@ google-chrome --remote-debugging-port=9222 --user-data-dir=/tmp/chromedev
 ### 4. Run
 
 ```bash
-python smartrevisor_ollama.py
+python NeuralRevise_ollama.py
 # or
-python smartrevisor_openrouter.py
+python NeuralRevise_openrouter.py
 # or
-python smartrevisor_gemini.py
+python NeuralRevise_gemini.py
 ```
 
 Log into your target platform in the Chrome window that opens, then press Enter in the terminal as instructed.
