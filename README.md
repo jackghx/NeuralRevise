@@ -68,9 +68,9 @@ Then pick your preferred AI backend:
 
 | Script | Backend | Requires |
 |---|---|---|
-| `smartrevisor_ollama.py` | Local Ollama | Ollama running with a model pulled |
-| `smartrevisor_openrouter.py` | OpenRouter API | Free API key from openrouter.ai |
-| `smartrevisor_gemini.py` | Google Gemini | Free API key from aistudio.google.com |
+| `NeuralRevise_ollama.py` | Local Ollama | Ollama running with a model pulled |
+| `NeuralRevise_openrouter.py` | OpenRouter API | Free API key from openrouter.ai |
+| `NeuralRevise_gemini.py` | Google Gemini | Free API key from aistudio.google.com |
 
 ## Setup
 
